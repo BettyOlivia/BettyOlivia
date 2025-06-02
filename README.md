@@ -30,7 +30,11 @@ I’ve recently started diving into GUI development and the world of UI/UX desig
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📘 Courses :
-
+**2024/2025 Semester II**
+- [SECP1513 Technology and Information System](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System)
+- [SECD2613 System-Analysis Design](https://github.com/BettyOlivia/SECD2613-System-Analysis-Design)
+- [SECI-1143 Probability Statistical Data Analysis](https://github.com/BettyOlivia/SECI-1143--Probability-Statistical-Data-Analysis-)
+  
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/olivia994219) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/betty-olivia-ong-danker-9836a3341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oliviabetty971@gmail.com) 
 
