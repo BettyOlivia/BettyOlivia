@@ -32,8 +32,8 @@ I’ve recently started diving into GUI development and the world of UI/UX desig
 # 📘 Courses :
 **2024/2025 Semester II**
 - [SECP1513 Technology and Information System](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System)
-- [SECD2613 System-Analysis Design](https://github.com/BettyOlivia/SECD2613-System-Analysis-Design)
-- [SECI-1143 Probability Statistical Data Analysis](https://github.com/BettyOlivia/SECI-1143--Probability-Statistical-Data-Analysis-)
+- [SECD2613 System Analysis Design](https://github.com/BettyOlivia/SECD2613-System-Analysis-Design)
+- [SECI 1143 Probability Statistical Data Analysis](https://github.com/BettyOlivia/SECI-1143--Probability-Statistical-Data-Analysis-)
   
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/olivia994219) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/betty-olivia-ong-danker-9836a3341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oliviabetty971@gmail.com) 
