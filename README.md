@@ -36,7 +36,7 @@ I’ve recently started diving into GUI development and the world of UI/UX desig
 - [SECI 1143 Probability Statistical Data Analysis](https://github.com/BettyOlivia/SECI-1143--Probability-Statistical-Data-Analysis-)
   
 # 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/olivia994219) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/betty-olivia-ong-danker-9836a3341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oliviabetty971@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/olivia994219) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/betty-olivia-ong-danker-9836a3341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oliviabetty971@gmail.com)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BettyOlivia) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bettyolivia&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
